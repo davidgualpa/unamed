@@ -1,0 +1,14 @@
+# Unity3D generated files
+[Ll]ibrary/
+[Tt]emp/
+[Pp]rojectSettings/
+[Pp]ackages/
+# User-specific files
+.vs/
+.vscode/
+.idea/
+# Build folders
+Build/
+Builds/
+# User-specific settings
+UserSettings/
